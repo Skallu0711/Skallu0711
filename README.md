@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [Fractal plant generator based on Lindenmayer system](https://github.com/Skallu0711/L-System_Plant_Generator)
 - 🌱 I’m currently learning Unity Data Oriented Technology Stack
 - 💬 You can ask me about everything. I will try to do my best to help You 😄
+- 📫 How to reach me: add me on discord, mail me or link with me on linkedin
 
 ### My Social Media:
 [<img align="left" width="32px" alt="Discord" src="https://user-images.githubusercontent.com/57925079/89525899-811a7c00-d819-11ea-847f-a8be447b75e1.png"/>](https://www.discordapp.com/users/350412328170422273)
