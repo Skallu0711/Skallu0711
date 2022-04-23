@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there. I am Patrick AKA Skallu.
+
+## I am Indie game developer and programming tutor
+- 🔭 I’m currently working on [Fractal plant generator based on Lindenmayer system](https://github.com/Skallu0711/L-System_Plant_Generator)
+- 🌱 I’m currently learning Unity DOTS
+
+### My Social Media:
+
+### Languages and Tools:
 
 <!--
 **Skallu0711/Skallu0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
