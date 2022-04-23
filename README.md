@@ -1,6 +1,6 @@
-### 👋 Hi there. I'm Patrick AKA Skallu.
+## 👋 Hi there. I'm Patrick AKA Skallu.
 
-## I'm Indie game developer and programming tutor
+### I'm Indie game developer and programming tutor
 - 🔭 I’m currently working on [Fractal plant generator based on Lindenmayer system](https://github.com/Skallu0711/L-System_Plant_Generator)
 - 🌱 I’m currently learning Unity Data Oriented Technology Stack
 - 💬 You can ask me about everything. I will try to do my best to help You 😄
@@ -12,7 +12,7 @@
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 <img align="left" width="26px" alt="Csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 <img align="left" width="26px" alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
 <img align="left" width="26px" alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
