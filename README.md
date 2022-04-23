@@ -6,8 +6,10 @@
 - 💬 You can ask me about everything. I will try to do my best to help You 😄
 
 ### My Social Media:
-[<img align="left" width="26px" alt="Discord" src="https://user-images.githubusercontent.com/57925079/89525899-811a7c00-d819-11ea-847f-a8be447b75e1.png">](https://www.discordapp.com/users/350412328170422273)
-[<img align="left" width="26px" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/kaminski-patryk)
+[<img align="left" width="26px" alt="Discord" src="https://user-images.githubusercontent.com/57925079/89525899-811a7c00-d819-11ea-847f-a8be447b75e1.png"/>](https://www.discordapp.com/users/350412328170422273)
+[<img align="left" width="26px" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/kaminski-patryk)
+
+<br />
 
 ### Languages and Tools:
 <img align="left" width="26px" alt="Csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
@@ -26,6 +28,8 @@
 <img align="left" width="26px" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="left" width="26px" alt="Gimp" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
 <img align="left" width="26px" alt="InkScape" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
+
+<br />
 
 <!--
 **Skallu0711/Skallu0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
