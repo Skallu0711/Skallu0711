@@ -11,7 +11,7 @@
 
 
 ### Languages and Tools:
-<img align=""left alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+[<img align=""left alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>]
 
 <!--
 **Skallu0711/Skallu0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
