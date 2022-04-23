@@ -8,7 +8,7 @@
 ### My Social Media:
 [<img align="left" width="26px" alt="Discord" src="https://user-images.githubusercontent.com/57925079/89525899-811a7c00-d819-11ea-847f-a8be447b75e1.png/>]
 (https://www.discordapp.com/users/350412328170422273/)
-[<img align="left" width="26px" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">][https://www.linkedin.com/in/kaminski-patryk]
+[<img align="left" width="26px" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/kaminski-patryk)
 
 ### Languages and Tools:
 <img align="left" width="26px" alt="Csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
