@@ -11,7 +11,22 @@
 
 
 ### Languages and Tools:
+<img align="left" width="26px" alt="Csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img align="left" width="26px" alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
 <img align="left" width="26px" alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<img align="left" width="26px" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" width="26px" alt="Jet Brains" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+<img align="left" width="26px" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="left" width="26px" alt="Git Hub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="left" width="26px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" width="26px" alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+<img align="left" width="26px" alt="NumPy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+<img align="left" width="26px" alt="Open CV" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+<img align="left" width="26px" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="left" width="26px" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="left" width="26px" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="left" width="26px" alt="Gimp" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+<img align="left" width="26px" alt="InkScape" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
 
 <!--
 **Skallu0711/Skallu0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
