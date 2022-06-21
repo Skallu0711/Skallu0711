@@ -1,6 +1,6 @@
 ## 👋 Hi there. I'm Patrick "Skallu"
 ## I'm Indie game developer and programming tutor from Poland
-- 🔭 I’m currently working on [Fractal plant generator based on Lindenmayer system](https://github.com/Skallu0711/L-System_Plant_Generator)
+- 🔭 I’m currently working on My Game :D
 - 🌱 I’m currently learning Unity Data Oriented Technology Stack
 - 💬 You can ask me about everything. I will try to do my best to help You 😄
 - 📫 Add me on discord, mail me or link with me on linkedin
