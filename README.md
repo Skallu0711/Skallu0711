@@ -1,19 +1,23 @@
-## 👋 Hi there.
-- 😎 I'm Indie game developer and programming tutor from Poland.
-- 🔭 I’m currently working on 2D roguelike top down shooter.
-- 🌱 I’m learning Data Oriented Technology Stack and mobile development.
-- 💬 Ask me about everything You like.
+<h1 align="center"> 👋 Hi there, I'm Patrick </h1>
 
-## Reach me on:
 <p align="center">
-<a target="_blank" href="https://www.discordapp.com/users/350412328170422273"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/skallu0711"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank" href="https://stackoverflow.com/users/18919314/skallu"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/kaminski-patryk"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://www.artstation.com/skallu"><img alt="ArtStation" src="https://img.shields.io/badge/ArtStation-%231DA1F2.svg?style=for-the-badge&logo=artstation&logoColor=white"/></a>
+- 😎 I'm game developer and programming tutor from Poland. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- 🔭 I’m currently working on 2D roguelike top-down shooter. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- 🌱 I’m learning Unity's Data Oriented Technology Stack. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- 💬 Ask me about everything You like and reach me on my socials. <br>
 </p>
 
-## Stack:
+<p align="center">
+  <a target="_blank" href="https://www.discordapp.com/users/350412328170422273"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a target="_blank" href="https://twitter.com/skallu0711"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a target="_blank" href="https://stackoverflow.com/users/18919314/skallu"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/kaminski-patryk"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://www.artstation.com/skallu"><img alt="ArtStation" src="https://img.shields.io/badge/ArtStation-%231DA1F2.svg?style=for-the-badge&logo=artstation&logoColor=white"/></a>
+</p>
+
+<br>
+
+<h2 align="center"> Tech Stack </h2>
 <p align="center">
   <img alt="Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
@@ -39,6 +43,7 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
 </p>
+
 
 <!--
 **Skallu0711/Skallu0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
