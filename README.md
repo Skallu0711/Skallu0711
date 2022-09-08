@@ -10,9 +10,8 @@
 <p align="center">
   <a target="_blank" href="https://www.discordapp.com/users/350412328170422273"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a target="_blank" href="https://twitter.com/skallu0711"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a target="_blank" href="https://stackoverflow.com/users/18919314/skallu"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/kaminski-patryk"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a target="_blank" href="https://www.artstation.com/skallu"><img alt="ArtStation" src="https://img.shields.io/badge/ArtStation-%231DA1F2.svg?style=for-the-badge&logo=artstation&logoColor=white"/></a>
+  <a target="_blank" href="https://skallu.itch.io/"><img alt="ArtStation" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 </p>
 
 <br>
