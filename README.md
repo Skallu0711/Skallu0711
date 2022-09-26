@@ -2,7 +2,7 @@
 
 <p align="center">
 - 😎 I'm game developer and programming tutor from Poland. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- 🔭 I’m currently working on 2D roguelike top-down shooter. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- 🔭 I’m currently working on hypercasual mobile games. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - 🌱 I’m learning Unity's Data Oriented Technology Stack. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - 💬 Ask me about everything You like and reach me on my socials. <br>
 </p>
