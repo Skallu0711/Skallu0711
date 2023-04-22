@@ -1,8 +1,7 @@
 <h1 align="center"> 👋 Hi there, I'm Patrick </h1>
 
 <p align="center">
-- 😎 I'm game developer and programming tutor from Poland. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- 💬 Ask me about everything You like and reach me on my socials. <br>
+  💬 Ask me about everything You like and reach me on my socials 💬 <br>
 </p>
 
 <p align="center">
@@ -28,13 +27,9 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-</p>
-
-<p align="center">
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
   <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
 </p>
-
 
 <!--
 **Skallu0711/Skallu0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
